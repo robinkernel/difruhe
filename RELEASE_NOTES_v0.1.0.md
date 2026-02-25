@@ -1,5 +1,5 @@
 # Difruhe v0.1.0 — Open Constitution Pack
-
+verdict=PASS repo=difruhe ref=refs/tags/v0.1.0 head=8c08808f56ccb62e164cc364e5fe45b6b28405f8
 ────────────────────────
 ENGLISH
 ────────────────────────
@@ -59,7 +59,7 @@ verdict=PASS repo=difruhe ref=refs/tags/v0.1.0 head=11c27248444f7a3bbb32769e9c99
 ────────────────────────
 中文
 ────────────────────────
-
+verdict=PASS repo=difruhe ref=refs/tags/v0.1.0 head=8c08808f56ccb62e164cc364e5fe45b6b28405f8
 Difruhe 是一种极简的结构语言，
 用于跨模型协调。
 
@@ -119,7 +119,7 @@ verdict=PASS repo=difruhe ref=refs/tags/v0.1.0 head=11c27248444f7a3bbb32769e9c99
 ────────────────────────
 ESPAÑOL
 ────────────────────────
-
+verdict=PASS repo=difruhe ref=refs/tags/v0.1.0 head=8c08808f56ccb62e164cc364e5fe45b6b28405f8
 Difruhe es un lenguaje estructural mínimo
 para coordinación entre modelos.
 
@@ -182,5 +182,6 @@ verdict=PASS repo=difruhe ref=refs/tags/v0.1.0 head=11c27248444f7a3bbb32769e9c99
 Authored by Liping Wang  
 RobinKernel  
 2026
+
 
 
