@@ -1,4 +1,4 @@
-# Difruhe Constitution v0.1
+# Difruhe Constitution v0.2
 
 ## I. Foundational Axioms (Difference Layer)
 
@@ -43,7 +43,7 @@ are outside the normative scope of this Constitution.
 ## IV. Founding Record Block
 
 Protocol Name: Difruhe  
-Version: v0.1  
+Version: v0.2  
 Initial Publication Date: 2026-02-25  
 Founding Record Anchored: 2026-02-26  
 Specification Status: Frozen (Normative Core)
@@ -52,7 +52,7 @@ Initial Structural Author: Liping Wang
 
 This founding record establishes:
 
-1. Difruhe v0.1 defines the original structural laws.
+1. Difruhe v0.2 defines the original structural laws.
 2. Structural laws are append-only.
 3. Historical versions remain valid and referenceable.
 4. No future amendment may silently alter prior normative semantics.

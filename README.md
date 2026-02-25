@@ -17,16 +17,23 @@ Verification MUST be offline-capable and deterministic.
 
 ## Identity Scope (Language Only)
 
-Difruhe language identity is computed from spec semantics only:
+Difruhe language identity is computed from **normative spec semantics only**:
 
-1. DIFRUHE_CONSTITUTION_v0.2.md  
-2. EVENT_VOCAB_v0.2.md  
-3. REFERENCE_CANON_v0.2.md  
-4. RULE_CANON_v0.2.md  
+1. spec/DIFRUHE_CONSTITUTION_v0.2.md  
+2. spec/EVENT_VOCAB_v0.2.md  
+3. spec/REFERENCE_CANON_v0.2.md  
+4. spec/RULE_CANON_v0.2.md  
 
 Non-normative repository files (README, release notes, tools, manifests) do not affect language identity.
 
 ## Release Record
 
-Language-level SHA256 manifest:
-spec/sha256_manifest.v0.2.txt
+Language-level SHA256 manifest:  
+- spec/sha256_manifest.v0.2.txt
+
+## Read the Spec
+
+- spec/DIFRUHE_CONSTITUTION_v0.2.md  
+- spec/DIFRUHE_MINIMAL_REFERENCE_VERIFIER_v0.2.md  
+- spec/DIFRUHE_CONFORMANCE_TEST_v0.2.md  
+- spec/IDENTITY_LAW_v0.2.md  

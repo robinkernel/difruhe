@@ -1,4 +1,4 @@
-# Difruhe Event Vocabulary v0.1 (Structural Beats)
+# Difruhe Event Vocabulary v0.2 (Structural Beats)
 
 INIT
 DECLARE

@@ -1,12 +1,12 @@
-# Difruhe Conformance Test v0.1
+# Difruhe Conformance Test v0.2
 
 Status: Normative Companion Specification  
 Applies to:
-- Difruhe Constitution v0.1
-- Difruhe Minimal Reference Verifier v0.1
+- Difruhe Constitution v0.2
+- Difruhe Minimal Reference Verifier v0.2
 
 This document defines the minimal conformance tests for any implementation
-claiming compatibility with Difruhe v0.1.
+claiming compatibility with Difruhe v0.2.
 
 All tests MUST be runnable offline.
 
@@ -14,7 +14,7 @@ All tests MUST be runnable offline.
 
 ## 1. Conformance Rule
 
-A claim of "Difruhe v0.1 compatible" is valid only if:
+A claim of "Difruhe v0.2 compatible" is valid only if:
 
 - The implementation produces deterministic results, and
 - It passes ALL tests defined in this document.
@@ -184,7 +184,7 @@ A conformance pack MUST include at minimum:
 
 ## 10. Version Binding
 
-This conformance specification binds exclusively to Difruhe Constitution v0.1.
+This conformance specification binds exclusively to Difruhe Constitution v0.2
 
 Future constitutional versions require independent conformance test specifications.
 

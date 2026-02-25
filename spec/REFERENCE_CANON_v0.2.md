@@ -1,4 +1,4 @@
-# Reference Canon v0.1
+# Reference Canon v0.2
 
 A structural difference is valid only if referenceable.
 

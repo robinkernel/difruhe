@@ -1,7 +1,7 @@
-# Difruhe Identity Law v0.1 (Final Locked)
+# Difruhe Identity Law v0.2 (Final Locked)
 
 Status: Normative Companion Specification  
-Applies to: Difruhe Constitution v0.1  
+Applies to: Difruhe Constitution v0.2  
 
 ---
 
@@ -13,10 +13,10 @@ Language identity MUST be computed exclusively from normative specification docu
 
 Identity scope is exactly these 4 files, in this locked order:
 
-1. DIFRUHE_CONSTITUTION_v0.1.md
-2. EVENT_VOCAB_v0.1.md
-3. REFERENCE_CANON_v0.1.md
-4. RULE_CANON_v0.1.md
+1. DIFRUHE_CONSTITUTION_v0.2.md
+2. EVENT_VOCAB_v0.2.md
+3. REFERENCE_CANON_v0.2.md
+4. RULE_CANON_v0.2.md
 
 No other repository files may affect language identity, including:
 

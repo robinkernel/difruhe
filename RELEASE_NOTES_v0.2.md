@@ -1,13 +1,13 @@
-# Difruhe Release v0.1.2
+# Difruhe Release v0.2
 Release Type: Open Constitution Pack  
-Language Version: v0.1  
+Language Version: v0.2
 Status: PASS  
 
 ────────────────────────
 
 ## Release Scope
 
-This release packages the finalized Difruhe v0.1 structural language.
+This release packages the finalized Difruhe v0.2 structural language.
 
 Difruhe is a minimal structural language for irreversible, referenceable progression.
 
@@ -25,25 +25,18 @@ Verification is offline-capable.
 
 The Difruhe language version is:
 
-v0.1
-
-The following Git tag represents a release packaging of this language:
-
-v0.1.2
-
-Patch-level tags (v0.1.x) may update documentation, packaging, or tooling.  
-They MUST NOT modify the structural semantics of v0.1.
+v0.2
 
 ────────────────────────
 
 ## Included Specifications (Normative)
 
-The language identity of Difruhe v0.1 is defined exclusively by:
+The language identity of Difruhe v0.2 is defined exclusively by:
 
-1. DIFRUHE_CONSTITUTION_v0.1.md  
-2. EVENT_VOCAB_v0.1.md  
-3. REFERENCE_CANON_v0.1.md  
-4. RULE_CANON_v0.1.md  
+1. DIFRUHE_CONSTITUTION_v0.2.md  
+2. EVENT_VOCAB_v0.2.md  
+3. REFERENCE_CANON_v0.2.md  
+4. RULE_CANON_v0.2.md  
 
 Identity is computed via:
 
@@ -68,7 +61,7 @@ No other repository files participate in identity.
 - Evidence-bound completion  
 - Shared structural verdict  
 
-### Event Vocabulary (v0.1 — Final Locked)
+### Event Vocabulary (v0.2 — Final Locked)
 
 INIT  
 DECLARE  
@@ -78,11 +71,11 @@ CHECKPOINT
 COMMIT  
 VERDICT  
 
-No additional structural events are defined in v0.1.
+No additional structural events are defined in v0.2.
 
 ────────────────────────
 
-## Reference Canon (v0.1)
+## Reference Canon (v0.2)
 
 A valid reference must:
 
@@ -94,7 +87,7 @@ No verifiable reference → no DONE.
 
 ────────────────────────
 
-## Rule Canon (v0.1)
+## Rule Canon (v0.2)
 
 Rules are:
 
@@ -129,7 +122,7 @@ No additional verdict states are permitted.
 
 All release artifacts are fingerprinted in:
 
-spec/sha256_manifest.v0.1.2.txt
+spec/sha256_manifest.v0.2.txt
 
 The manifest is a release record.  
 It does NOT participate in identity computation.  

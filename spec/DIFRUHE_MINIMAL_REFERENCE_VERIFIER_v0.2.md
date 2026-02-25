@@ -1,14 +1,14 @@
-# Difruhe Minimal Reference Verifier v0.1
+# Difruhe Minimal Reference Verifier v0.2
 
 Status: Normative Companion Specification  
-Applies to: Difruhe Constitution v0.1  
+Applies to: Difruhe Constitution v0.2  
 
 ---
 
 ## 1. Purpose
 
 This document defines the minimal verification requirements
-for any implementation claiming compatibility with Difruhe v0.1.
+for any implementation claiming compatibility with Difruhe v0.2.
 
 The reference verifier:
 
@@ -131,7 +131,7 @@ Difruhe defines structure, not execution.
 
 This verifier specification binds exclusively to:
 
-Difruhe Constitution v0.1
+Difruhe Constitution v0.2
 
 Future constitutional versions require independent verifier specifications.
 
