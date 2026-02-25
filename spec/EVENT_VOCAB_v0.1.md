@@ -1,11 +1,9 @@
-# Difruhe Event Vocabulary v0.1 (9 beats)
+# Difruhe Event Vocabulary v0.1 (Structural Beats)
 
 INIT
 DECLARE
 SNAPSHOT
 EVIDENCE_ATTACH
-CHECKPOINT_PASS
-CHECKPOINT_FAIL
-BLOCKED
+CHECKPOINT
 COMMIT
 VERDICT
