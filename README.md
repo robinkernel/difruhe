@@ -9,5 +9,6 @@ A language of irreversible, referenceable difference.
 Spec is open. Implementations are free to choose.
 
 Release Anchor
-verdict=PASS repo=difruhe ref=refs/tags/v0.1.0 
-head=8c08808f56ccb62e164cc364e5fe45b6b28405f8
+verdict=PASS repo=difruhe ref=refs/tags/v0.1.1 
+head=6d01ef4911e7a006b29a2b0cd96dd13a29ac92bb
+
