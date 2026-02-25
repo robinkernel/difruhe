@@ -1,13 +1,18 @@
-# Difruhe v0.1
+# Difruhe
+
+Difruhe is a minimal structural language.
+
+It defines irreversible, referenceable differences.
 
 Difruhe is not a tool.  
 Difruhe is not a platform.  
+Difruhe is a structural foundation.
 
-Difruhe is a structural language.
-A language of irreversible, referenceable difference.
+Specification is open.  
+Implementation is sovereign.
 
-Spec is open. Implementations are free to choose.
-
-Release Anchor
-verdict=PASS repo=difruhe ref=refs/tags/v0.1.0 
-head=8c08808f56ccb62e164cc364e5fe45b6b28405f8
+See:
+- DIFRUHE_CONSTITUTION_v0.1.md
+- DIFRUHE_MINIMAL_REFERENCE_VERIFIER_v0.1.md
+- DIFRUHE_CONFORMANCE_TEST_v0.1.md
+- IDENTITY_LAW_v0.1.md
