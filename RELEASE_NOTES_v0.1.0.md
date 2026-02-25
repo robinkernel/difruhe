@@ -54,8 +54,6 @@ Spec is open.
 Implementations are free to choose.
 Structure must not drift.
 
-verdict=PASS repo=difruhe ref=refs/tags/v0.1.0 head=11c27248444f7a3bbb32769e9c990a09385210fd
-
 ────────────────────────
 中文
 ────────────────────────
@@ -116,7 +114,6 @@ spec/sha256_manifest.v0.1.0.txt
 实现自由。
 结构不可漂移。
 
-verdict=PASS repo=difruhe ref=refs/tags/v0.1.0 head=11c27248444f7a3bbb32769e9c990a09385210fd
 ────────────────────────
 ESPAÑOL
 ────────────────────────
@@ -176,13 +173,11 @@ Especificación abierta.
 Implementaciones libres.
 La estructura no debe derivar.
 
-verdict=PASS repo=difruhe ref=refs/tags/v0.1.0 head=11c27248444f7a3bbb32769e9c990a09385210fd
-
-—
 
 Authored by Liping Wang  
 RobinKernel  
 2026
+
 
 
 
