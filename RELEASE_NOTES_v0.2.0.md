@@ -1,4 +1,4 @@
-# Difruhe Release v0.2
+# Difruhe Release v0.2.0
 Release Type: Open Constitution Pack  
 Language Version: v0.2
 Status: PASS  
