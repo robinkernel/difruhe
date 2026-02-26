@@ -1,0 +1,2 @@
+verdict=PASS repo=difruhe ref=refs/tags/v0.2.0 head=9ae5326a1723f716aa3b2271bbe11a92de17e994
+spec_fingerprint=sha256:7720458a5e5361603ba389f10e4cdc798af6324cdc27a2fa9da12ff12a1a8d4e
