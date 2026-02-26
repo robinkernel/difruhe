@@ -1,12 +1,13 @@
-## Difruhe Release v0.2.0
+# Difruhe Release v0.2.0
 Release Type: Open Constitution Pack  
 Language Version: v0.2
 Status: PASS  
 
-Freeze PASS receipt  
-verdict=PASS repo=difruhe ref=refs/tags/v0.2.0 head=9ae5326a1723f716aa3b2271bbe11a92de17e994  
-spec_fingerprint=sha256:7720458a5e5361603ba389f10e4cdc798af6324cdc27a2fa9da12ff12a1a8d4e  
-Non-normative boundary: docs/ROLE_BOUNDARY_v0.2.md  
+Freeze PASS receipt
+verdict=PASS repo=difruhe ref=refs/tags/v0.2.0 head=9ae5326a1723f716aa3b2271bbe11a92de17e994
+spec_fingerprint=sha256:7720458a5e5361603ba389f10e4cdc798af6324cdc27a2fa9da12ff12a1a8d4e
+Non-normative boundary: docs/ROLE_BOUNDARY_v0.2.md
+
 ────────────────────────
 
 ## Release Scope
