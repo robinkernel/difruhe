@@ -1,8 +1,12 @@
-# Difruhe Release v0.2.0
+## Difruhe Release v0.2.0
 Release Type: Open Constitution Pack  
 Language Version: v0.2
 Status: PASS  
 
+Freeze PASS receipt  
+verdict=PASS repo=difruhe ref=refs/tags/v0.2.0 head=9ae5326a1723f716aa3b2271bbe11a92de17e994  
+spec_fingerprint=sha256:7720458a5e5361603ba389f10e4cdc798af6324cdc27a2fa9da12ff12a1a8d4e  
+Non-normative boundary: docs/ROLE_BOUNDARY_v0.2.md  
 ────────────────────────
 
 ## Release Scope
@@ -132,14 +136,16 @@ The manifest MUST NOT include itself.
 
 ## Compatibility Statement
 
-All implementations claiming compatibility with Difruhe v0.1 MUST:
+Implementations claiming compatibility with earlier Difruhe versions (including v0.1) MUST:
 
 - Respect append-only structural progression  
 - Preserve canonical identity  
 - Bind DONE to verifiable evidence  
 - Produce deterministic verdicts  
 
-Language semantics MUST NOT drift.
+Compatibility means structural preservation, not semantic reinterpretation.
+
+Language semantics MUST NOT drift across versions.
 
 ────────────────────────
 
