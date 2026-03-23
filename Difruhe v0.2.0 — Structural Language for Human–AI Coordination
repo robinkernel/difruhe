@@ -1,7 +1,12 @@
-# Difruhe Release v0.2.0
+# Difruhe v0.2.0 — Public Structural Language Freeze
+
 Release Type: Open Constitution Pack  
-Language Version: v0.2
+Language Version: v0.2  
 Status: PASS  
+
+Difruhe v0.2.0 is the current public freeze of Difruhe.
+
+Difruhe defines a structural language for irreversible, referenceable progression across humans and AI systems. This release provides a stable public baseline for understanding the language, verifying the release surface, and reading the locked constitutional materials of v0.2.
 
 Freeze PASS receipt
 verdict=PASS repo=difruhe ref=refs/tags/v0.2.0 head=9ae5326a1723f716aa3b2271bbe11a92de17e994
