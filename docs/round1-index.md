@@ -1,4 +1,4 @@
-﻿# Round 1 Index
+﻿# Release Index
 
 ## Canonical core
 
@@ -8,21 +8,26 @@
 - [中文入口](zh/start-here.md)
 - [Entrada en español](es/start-here.md)
 
-## Distribution assets
+## Round 1 assets
 
 - [Round 1 launch essay (EN)](round1-launch-en.md)
 - [X thread (EN)](x-thread-round1-en.md)
 - [LinkedIn post (EN)](linkedin-round1-en.md)
 - [Substack / Medium mirror (EN)](substack-medium-round1-en.md)
-- [Round 2 essay (EN)](essays/capability-is-not-admissibility.md)
 
-## Distribution copy
+## Round 1 distribution copy
 
 - [Distribution copy (EN)](distribution-copy-round1-en.md)
 - [Distribution copy (ZH)](distribution-copy-round1-zh.md)
 - [Distribution copy (ES)](distribution-copy-round1-es.md)
 
-## Locked order
+## Round 2 assets
+
+- [Round 2 essay (EN)](essays/capability-is-not-admissibility.md)
+- [X thread (EN)](x-thread-round2-en.md)
+- [LinkedIn post (EN)](linkedin-round2-en.md)
+
+## Round 1 launch order
 
 1. Difruhe long-form launch
 2. X main thread
@@ -34,4 +39,3 @@
 - English = canonical source
 - 中文 = comprehension layer
 - Español = expansion layer
-
