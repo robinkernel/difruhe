@@ -23,10 +23,10 @@ Español负责扩散面。
 ## Start here
 
 - [Start here guide](docs/start-here.md)
-- [Read the spec](docs/spec.md)
-- [Minimal reference verifier](docs/reference-verifier.md)
-- [Conformance test](docs/conformance.md)
-- [Identity law](docs/identity-law.md)
+- [Read the spec](spec/DIFRUHE_CONSTITUTION_v0.2.md)
+- [Minimal reference verifier](spec/DIFRUHE_MINIMAL_REFERENCE_VERIFIER_v0.2.md)
+- [Conformance test](spec/DIFRUHE_CONFORMANCE_TEST_v0.2.md)
+- [Identity law](spec/IDENTITY_LAW_v0.2.md)
 
 ## Core claims
 
@@ -41,3 +41,4 @@ Español负责扩散面。
 - Latest language: v0.2
 - Historical releases remain valid and referenceable.
 - No future amendment may silently alter prior normative semantics.
+
