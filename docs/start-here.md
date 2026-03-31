@@ -27,6 +27,7 @@ If you want the full problem statement first, start there.
 ## Then use these routes
 
 - [Read the spec](spec.md)
+- [Essay: Capability Is Not Admissibility](essays/capability-is-not-admissibility.md)
 - [Minimal reference verifier](reference-verifier.md)
 - [Conformance test](conformance.md)
 - [Identity law](identity-law.md)
@@ -65,3 +66,4 @@ If that boundary is not explicit, stable, and verifiable, action systems will ke
 - Latest language: v0.2
 - Historical releases remain valid and referenceable.
 - No future amendment may silently alter prior normative semantics.
+
