@@ -42,3 +42,17 @@ Español负责扩散面。
 - Historical releases remain valid and referenceable.
 - No future amendment may silently alter prior normative semantics.
 
+
+
+## Difuhe positioning short form
+
+- Difuhe = an industry self-evolving substrate above pluggable foundation models
+- it is not another attempt to build the strongest general brain
+- it makes every connected brain commit fewer expensive mistakes inside a given industry
+- its long-term advantage comes from converting real-world friction into structural advantage
+
+## Recent essays
+
+* [Capability Is Not Admissibility](docs/essays/capability-is-not-admissibility.md)
+* [State Validity Is the Missing Layer](docs/essays/state-validity-is-the-missing-layer.md)
+
