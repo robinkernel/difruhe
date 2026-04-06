@@ -21,11 +21,22 @@
 - [Distribution copy (ZH)](distribution-copy-round1-zh.md)
 - [Distribution copy (ES)](distribution-copy-round1-es.md)
 
-## Round 2 assets
+## Round 2 essays
 
 - [Round 2 essay (EN)](essays/capability-is-not-admissibility.md)
+- [Round 2 essay (ZH)](zh/capability-is-not-admissibility.md)
+- [Round 2 essay (ES)](es/capability-is-not-admissibility.md)
+
+## Round 2 social
+
 - [X thread (EN)](x-thread-round2-en.md)
 - [LinkedIn post (EN)](linkedin-round2-en.md)
+
+## Round 3 essays
+
+- [Round 3 essay (EN)](essays/state-validity-is-the-missing-layer.md)
+- [Round 3 essay (ZH)](zh/state-validity-is-the-missing-layer.md)
+- [Round 3 essay (ES)](es/state-validity-is-the-missing-layer.md)
 
 ## Round 1 launch order
 
