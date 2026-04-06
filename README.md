@@ -51,8 +51,9 @@ Español负责扩散面。
 - it makes every connected brain commit fewer expensive mistakes inside a given industry
 - its long-term advantage comes from converting real-world friction into structural advantage
 
-## Recent essays
+## Essays
 
-* [Capability Is Not Admissibility](docs/essays/capability-is-not-admissibility.md)
 * [State Validity Is the Missing Layer](docs/essays/state-validity-is-the-missing-layer.md)
+* [Capability Is Not Admissibility](docs/essays/capability-is-not-admissibility.md)
+* [The Missing Layer Between AI Intent and Real-World Action](docs/round1-launch-en.md)
 
