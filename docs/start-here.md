@@ -67,3 +67,5 @@ If that boundary is not explicit, stable, and verifiable, action systems will ke
 - Historical releases remain valid and referenceable.
 - No future amendment may silently alter prior normative semantics.
 
+- [Before an AI Answers, It Must Judge Whether Answering Is Admissible](docs/essays/before-an-ai-answers-it-must-judge-whether-answering-is-admissible.md)
+

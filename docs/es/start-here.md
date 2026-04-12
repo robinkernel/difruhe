@@ -73,3 +73,5 @@ Si esa frontera no es explícita, estable y verificable, los sistemas de acción
 - Latest language: v0.2
 - Las versiones históricas siguen siendo válidas y referenciables
 - Ninguna enmienda futura puede alterar en silencio la semántica normativa previa
+- [Antes de responder, una IA debe juzgar si la respuesta es admisible](before-an-ai-answers-it-must-judge-whether-answering-is-admissible.md)
+
