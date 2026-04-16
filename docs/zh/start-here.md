@@ -5,17 +5,9 @@ Difruhe 不是一个平台。
 
 Difruhe 是一种结构语言，用来区分什么还只是被提出的候选内容，什么已经成为有效、可引用、并被允许进入现实的对象。
 
-它要处理的是一个非常具体的边界：
+它处理的是一个非常具体的边界：
 
 AI 意图与现实动作之间的边界。
-
-当 AI 系统从生成语言走向触发现实动作时，真正关键的问题，不再只是模型“能产出什么”。
-
-真正关键的问题变成：
-- 什么仍然只是 candidate
-- 什么已经构成 valid state
-- 什么在执行前是 admissible 的
-- 什么被允许 become real
 
 ## 先读这个
 
@@ -23,19 +15,18 @@ AI 意图与现实动作之间的边界。
 
 如果你想先看完整的问题定义，请先读英文母文。
 
-## 当前可用路径
+## 继续读长文
+
+当前 live 长文共 3 篇：
+
+- [Before an AI Answers, It Must Judge Whether Answering Is Admissible](./before-an-ai-answers-it-must-judge-whether-answering-is-admissible.md)
+- [Capability Is Not Admissibility](./capability-is-not-admissibility.md)
+- [State Validity Is the Missing Layer](./state-validity-is-the-missing-layer.md)
+
+## 其他语言入口
 
 - [英文入口 Start Here](../start-here.md)
-- [Essay: Capability Is Not Admissibility](../essays/capability-is-not-admissibility.md)
 - [Entrada en español: Empieza aquí](../es/start-here.md)
-
-## 尚未上线的路径
-
-以下路径暂未上线：
-- Read the spec
-- Minimal reference verifier
-- Conformance test
-- Identity law
 
 ## 语言结构
 
