@@ -17,8 +17,9 @@ Si quieres empezar con la definición completa del problema, comienza allí.
 
 ## Sigue con los ensayos largos
 
-El conjunto live actual tiene 3 ensayos:
+El conjunto público actual tiene 4 ensayos:
 
+- [Falta una capa de gobernanza entre la intención de la IA y la acción en el mundo real](./round1-launch-es.md)
 - [Before an AI Answers, It Must Judge Whether Answering Is Admissible](./before-an-ai-answers-it-must-judge-whether-answering-is-admissible.md)
 - [Capability Is Not Admissibility](./capability-is-not-admissibility.md)
 - [State Validity Is the Missing Layer](./state-validity-is-the-missing-layer.md)

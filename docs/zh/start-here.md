@@ -17,8 +17,9 @@ AI 意图与现实动作之间的边界。
 
 ## 继续读长文
 
-当前 live 长文共 3 篇：
+当前公开长文共 4 篇：
 
+- [AI 意图与现实动作之间，缺了一层治理](./round1-launch-zh.md)
 - [Before an AI Answers, It Must Judge Whether Answering Is Admissible](./before-an-ai-answers-it-must-judge-whether-answering-is-admissible.md)
 - [Capability Is Not Admissibility](./capability-is-not-admissibility.md)
 - [State Validity Is the Missing Layer](./state-validity-is-the-missing-layer.md)

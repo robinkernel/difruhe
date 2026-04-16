@@ -17,8 +17,9 @@ If you want the full problem statement first, start there.
 
 ## Read the long-form essays
 
-Current live essay set:
+Current public essay set:
 
+- [The Missing Layer Between AI Intent and Real-World Action](./round1-launch-en.md)
 - [Before an AI Answers, It Must Judge Whether Answering Is Admissible](./essays/before-an-ai-answers-it-must-judge-whether-answering-is-admissible.md)
 - [Capability Is Not Admissibility](./essays/capability-is-not-admissibility.md)
 - [State Validity Is the Missing Layer](./essays/state-validity-is-the-missing-layer.md)
