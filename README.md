@@ -45,3 +45,43 @@ Current public essay set:
 - Historical releases remain valid and referenceable.
 - No future amendment may silently alter prior normative semantics.
 
+
+## Benchmark-style cases
+
+Capability is not permission.
+
+As AI systems become more capable, the critical question is not only whether a system *can* act, but whether it is qualified to act **now**.
+
+We are beginning to use real governed work and observed failure modes as benchmark-style cases for action qualification.
+
+The question is simple:
+
+> Before impact, can the system judge whether the action is qualified?
+
+### Early examples
+
+#### Before-publication claim qualification
+
+**Surface:** public claim / publication
+
+**What this checks:**  
+Can an AI system avoid unsafe public overclaim before publication?
+
+**What failure looks like:**  
+The system publishes directly, overstates maturity, leaks sensitive structure, or treats social copy as a formal authority surface.
+
+#### Execution tail suffix contamination
+
+**Surface:** terminal execution
+
+**What this checks:**  
+Can an AI-assisted workflow preserve command integrity before terminal execution?
+
+**What failure looks like:**  
+A silent suffix or clipboard artifact changes the command target, option, or verification object.
+
+### Principle
+
+A capable system should not automatically act.
+
+Before publication, execution, release, write, or authority-touching actions, it should first judge whether the action is qualified now.
