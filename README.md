@@ -48,6 +48,8 @@ Current public essay set:
 
 ## Benchmark-style cases
 
+Full note: [Benchmark-style cases](./docs/benchmark-style-cases.md)
+
 Capability is not permission.
 
 As AI systems become more capable, the critical question is not only whether a system *can* act, but whether it is qualified to act **now**.
@@ -85,3 +87,4 @@ A silent suffix or clipboard artifact changes the command target, option, or ver
 A capable system should not automatically act.
 
 Before publication, execution, release, write, or authority-touching actions, it should first judge whether the action is qualified now.
+
