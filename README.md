@@ -24,6 +24,8 @@ Español 负责扩散面。
 
 Current public essay set:
 
+- [AI’s Next Bottleneck Isn’t Intelligence. It’s Permission.](./docs/essays/ai-next-bottleneck-isnt-intelligence-its-permission.md)
+
 - [The Missing Layer Between AI Intent and Real-World Action](./docs/round1-launch-en.md)
 - [Before an AI Answers, It Must Judge Whether Answering Is Admissible](./docs/essays/before-an-ai-answers-it-must-judge-whether-answering-is-admissible.md)
 - [Capability Is Not Admissibility](./docs/essays/capability-is-not-admissibility.md)
@@ -42,3 +44,4 @@ Current public essay set:
 - Latest language: v0.2
 - Historical releases remain valid and referenceable.
 - No future amendment may silently alter prior normative semantics.
+
